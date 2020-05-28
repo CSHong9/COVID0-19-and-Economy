@@ -1,0 +1,1 @@
+Data about income inequality
