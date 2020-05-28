@@ -10,3 +10,4 @@ This repository collects publicly-available county-level datasets about COVID-19
 7. Political polarization, [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 8. Racial and household income inequality, [Opportunity Insights project](https://opportunityinsights.org/data/?geographic_level=102&topic=110&paper_id=0#resource-listing)
 9. State-level internet search, [Google Trends](https://trends.google.com/trends/story/US_cu_4Rjdh3ABAABMHM_en)
+10. Unemployment claims, [New York Times](https://www.nytimes.com/interactive/2020/03/26/upshot/coronavirus-millions-unemployment-claims.html)
