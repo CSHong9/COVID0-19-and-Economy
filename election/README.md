@@ -1,1 +1,1 @@
-U.S. President election results
+U.S. President election returns
